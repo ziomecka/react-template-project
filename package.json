@@ -12,7 +12,7 @@
     "@types/node": "12.12.14",
     "@types/react": "16.9.14",
     "@types/react-dom": "16.9.4",
-    "html-webpack-plugin": "3.2.0",
+    "html-webpack-plugin": "5.5.0",
     "prettier": "1.19.1",
     "ts-loader": "6.2.1",
     "tslint": "5.20.1",
@@ -22,7 +22,7 @@
     "tslint-react": "4.1.0",
     "typescript": "3.7.2",
     "webpack": "4.41.2",
-    "webpack-cli": "3.3.10",
+    "webpack-cli": "3.3.12",
     "webpack-dev": "1.1.1"
   },
   "scripts": {
